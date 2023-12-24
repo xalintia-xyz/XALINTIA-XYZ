@@ -3,7 +3,7 @@
 About Me :
 ```
 
-`🍽️ - 🛌 - 🧑‍💻 - 🔁`
+`eat 🍽️ - sleep 🛌 - coding 🧑‍💻 - repeat 🔁`
 
 ```
 Languages ​​I Learn :
