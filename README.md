@@ -1,9 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xalintia-xyz&label=Viewer&color=red&style=plastic" alt="xalintia-xyz"/> </p>
 
 # Hello World Im `Xalintia` ✨ [![GitHub xalintia-xyz](https://img.shields.io/github/followers/xalintia-xyz?label=followers&style=social)](https://github.com/xalintia-xyz)
-```
-About Me :
-```
 
 `eat 🍽️ - sleep 🛌 - coding 🧑‍💻 - repeat 🔁`
 
