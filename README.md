@@ -7,11 +7,8 @@ About Me :
 
 `eat 🍽️ - sleep 🛌 - coding 🧑‍💻 - repeat 🔁`
 
-```
-Languages ​​I Learn :
-```
 <details open><summary><code>Languages ​​I Learn ~ </code></summary>
-• PYTHON <br>• SHELL<br>• NODEJS
+<br>• PYTHON <br>• SHELL<br>• NODEJS
 </details>
 <h1 align="center">
   🚀 My Stats
