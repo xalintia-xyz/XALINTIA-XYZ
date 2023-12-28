@@ -19,4 +19,4 @@
 </a>
 <h3 align='center'>My Favorit Language</h3><p align='center'>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" border="5"></p>
-<img src="src/robot.gif">
+<img src="src/gif-unscreen.gif">
